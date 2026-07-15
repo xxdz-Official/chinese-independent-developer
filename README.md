@@ -26,6 +26,11 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### 619dev(天津) - [Github](https://github.com/619dev)
+* :white_check_mark: [PaperPhonePlus](https://paperphone.app)：支持端到端加密、前向保密和音视频通话的即时通讯 App，可使用官方网页端或自托管 - [查看仓库](https://github.com/619dev/Paperphone-plus)
+* :white_check_mark: [归灯](https://guideng.vercel.app)：家庭位置共享 App，支持 Android、iOS 和自托管服务器 - [查看仓库](https://github.com/619dev/guideng)
+* :white_check_mark: [问墨](https://github.com/619dev/wenmo-android/releases/latest)：完全离线的 Android 中文输入法，不申请网络或录音权限，APK 约 1.3 MB - [查看仓库](https://github.com/619dev/wenmo-android)
+
 #### EloLin - [Github](https://github.com/DevEloLin)
 * :white_check_mark: [KinMate](https://kinmate.elolin.com)：本地优先的家庭健康档案库，把全家人（含宠物）的化验单、病历、体检报告集中安全地存在自己设备上；AI 用大白话帮你读懂每项指标是什么、是否正常，全部数据不出本机、不上传云端
 * :white_check_mark: [TestHive](https://testhive.elolin.com)：面向开发者的众测/内测市场，发布测试活动即可招募真实用户帮你试用挑 bug；测试者完成任务赚取平台积分奖励，测试报告可一键公开分享，让产品在上线前就拿到真实反馈
@@ -5803,4 +5808,3 @@
 1. [电鸭](https://eleduck.com/)
 1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 1. [RemoteOK](https://remoteok.io/)
-
